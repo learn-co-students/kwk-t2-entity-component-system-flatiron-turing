@@ -5,3 +5,5 @@ tags:
 languages:
   - javascript
 resources: 0
+
+parent_template: git@github.com:learn-co-curriculum/entity-component-system.git

@@ -121,3 +121,4 @@ lot of the same code from this repository.
 
 [animations-doc]: https://github.com/aframevr/aframe/blob/master/docs/core/animations.md
 [position-doc]: https://github.com/aframevr/aframe/blob/master/docs/components/position.md
+<p data-visibility='hidden'>KWK-T2 Objectives</p>
